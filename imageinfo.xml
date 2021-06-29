@@ -1,0 +1,6 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/flyer.jpg" filesize="117576" filedate="2021-05-23 11:38:42" width="720px" height="459px"/>
+<image path="images/front.jpg" filesize="110622" filedate="2021-05-23 10:47:06" width="576px" height="720px"/>
+<image path="images/qr65536.png" filesize="269" filedate="2021-06-06 10:00:42" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="7899" filedate="2021-05-22 19:26:50" width="469px" height="720px"/>
+</images>
